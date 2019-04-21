@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "escX's blog",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escX/blog.git"
+  },
+  "keywords": [
+    "escx",
+    "blog"
+  ],
+  "author": "escX",
+  "license": "CC BY-NC-SA 3.0 CN",
+  "bugs": {
+    "url": "https://github.com/escX/blog/issues"
+  },
+  "homepage": "https://github.com/escX/blog#readme"
+}
